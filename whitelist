@@ -1,4 +1,5 @@
 # Instagram
+
 0.0.0.0 a.ns.cdninstagram.com
 0.0.0.0 api.instagram.com
 0.0.0.0 b.ns.cdninstagram.com
@@ -380,6 +381,7 @@
 0.0.0.0 z-p42-static.cdninstagram.com
 
 # Whatsapp
+
 0.0.0.0 account.whatsapp.com
 0.0.0.0 alpha.whatsapp.com
 0.0.0.0 api.whatsapp.com
@@ -536,6 +538,7 @@
 0.0.0.0 wwwl.whatsapp.com
 
 # Twitter
+
 0.0.0.0 0.twitter.com
 0.0.0.0 2010.twitter.com
 0.0.0.0 2011.twitter.com
@@ -651,6 +654,7 @@
 0.0.0.0 www4.twitter.com
 
 # Reddit
+
 0.0.0.0 a.thumbs.redditmedia.com
 0.0.0.0 about.reddit.com
 0.0.0.0 alb.reddit.com
